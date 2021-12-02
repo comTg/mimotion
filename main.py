@@ -325,7 +325,7 @@ def get_access_token():
 
 
 def run(msg):
-    if position:
+    if 9 > 10:
         data = {
             "touser": touser,
             "toparty": toparty,
